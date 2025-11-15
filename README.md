@@ -25,7 +25,7 @@ You can download Eon Browser by cloning the [Git Repo](https://github.com/RangS-
 
 ~/browser ❯ pip3 install -r requirements.txt
 
-~/browser ❯ python3 browser.py
+~/browser ❯ python3 eon.py
 ```
 -------------
 ## Disclaimer
