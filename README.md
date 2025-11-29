@@ -21,11 +21,11 @@ You can download Eon Browser by cloning the [Git Repo](https://github.com/RangS-
 ```
 ~ ❯ git clone https://github.com/RangS-1/Eon-Browser.git
 
-~ ❯ cd eon
+~ ❯ cd Eon-Browser
 
-~/browser ❯ pip3 install -r requirements.txt
+~/Eon-Browser ❯ pip3 install -r requirements.txt
 
-~/browser ❯ python3 eon.py
+~/Eon-Browser ❯ python3 eon.py
 ```
 -------------
 ## Disclaimer
