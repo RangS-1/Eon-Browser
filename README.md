@@ -1,5 +1,5 @@
 # Eon Browser V.0.3
-This is Eon Browser, it was maded with PyQt5WebEngine. Eon Browser is a very lightweight browser, even for your old pc (if you have, or maybe only me that have an old pc 😐). I made this browser to google dorking, why? because there's no history, no cookies, no web account and using an old google . it's incognito than incognito itself 😎.
+This is Eon Browser, it was maded with PyQt5WebEngine. Eon Browser is a very lightweight browser, even for your old pc (if you have, or maybe only me that have an old pc 😐). I made this browser to google dorking, why? because there's no history, no web account and using an old google . it's incognito than incognito itself 😎.
 
 - compatible with python3
 - compatible with old pc
